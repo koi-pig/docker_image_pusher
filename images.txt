@@ -9,4 +9,5 @@ mysql:8.0.27
 redis
 rabbitmq
 nacos/nacos-server
+chainguard/jdk
 
