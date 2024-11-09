@@ -9,6 +9,6 @@ mysql:8.0.27
 redis
 rabbitmq
 naocs
-jdk:1.8
+jdk
 node
 
